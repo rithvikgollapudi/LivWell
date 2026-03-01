@@ -179,7 +179,7 @@ Your application will run successfully 🎉
 
 **Team Viveka**
 
-- G. Ritvik  
+- G. Rithvik  
 - M. Sarvagna  
 - K. Laxmi Lavanya  
 - M.K.V.V. Vinay  
